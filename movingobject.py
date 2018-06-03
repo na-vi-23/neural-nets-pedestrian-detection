@@ -1,8 +1,6 @@
 import numpy as np
 from pykalman import KalmanFilter
 
-print("working")
-
 class MovingObject(object):
     def __init__(self,id,position):
         self.id = id

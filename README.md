@@ -1,4 +1,4 @@
-# Pedestrian-Recognition
+# Pedestrian-Detection
 
 #### Model
 CNN
